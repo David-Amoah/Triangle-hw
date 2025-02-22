@@ -1,0 +1,3 @@
+C:/Users/unoda/CLionProjects/computingIII(HW1)/cmake-build-debug/CMakeFiles/computingIII_HW1_.dir
+C:/Users/unoda/CLionProjects/computingIII(HW1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/unoda/CLionProjects/computingIII(HW1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
